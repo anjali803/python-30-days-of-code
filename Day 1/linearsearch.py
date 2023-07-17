@@ -10,3 +10,7 @@ def linearsearch(list,value):
 list = [12,43,23,10]
 value = 5
 print("Returning the position of the value :",linearsearch(list,value))
+
+
+
+

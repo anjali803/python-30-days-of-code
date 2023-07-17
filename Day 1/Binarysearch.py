@@ -1,4 +1,4 @@
-# In binary search the items in the list will be sorted in increasing or decreasing order 
+# # In binary search the items in the list will be sorted in increasing or decreasing order 
 def binarysearch(list,value):
     low = 0
     high = len(list)-1
@@ -20,4 +20,6 @@ if result != -1:
     print("item present at :",str(result))
 else:
     print("Element not found!")
+      
+      
       
